@@ -1,0 +1,7 @@
+
+Item	Price	Cost
+
+TSHIRT	$10	$3
+Hoodie	$30	$15
+Sweatshirt	$25	$10
+Cap	$15	$7.50
